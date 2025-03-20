@@ -1,5 +1,5 @@
 Excel- Vrinda Store Data Analysis
-🚀 Excited to Share My New Data Analytics Project! 📊
+Excited to Share My New Data Analytics Project! 
 
 I recently worked on Vrinda Store Data Analysis, where I explored sales trends, customer behavior, and order patterns to gain actionable business insights.
 
@@ -8,9 +8,6 @@ I recently worked on Vrinda Store Data Analysis, where I explored sales trends, 
 ✅ Identified purchasing trends based on age, gender, and location.
 ✅ Explored order status data to understand fulfillment efficiency.
 
-🛠️ Tools used: Excel, SQL, and data visualization techniques.
-
-This project helped me sharpen my data analysis skills and derive meaningful business insights. 📈
-
-Would love to hear your thoughts! 💡
+Tools used: Excel, SQL, and data visualization techniques.
+Would love to hear your thoughts! 
 
