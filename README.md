@@ -3,7 +3,7 @@ Excited to Share My New Data Analytics Project!
 
 I recently worked on Vrinda Store Data Analysis, where I explored sales trends, customer behavior, and order patterns to gain actionable business insights.
 
-🔍 Key highlights:
+Key highlights:
 ✅ Analyzed sales performance across different platforms (Myntra, Amazon, etc.).
 ✅ Identified purchasing trends based on age, gender, and location.
 ✅ Explored order status data to understand fulfillment efficiency.
