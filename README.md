@@ -9,5 +9,5 @@ Key highlights:
 ✅ Explored order status data to understand fulfillment efficiency.
 
 Tools used: Excel, SQL, and data visualization techniques.
-Would love to hear your thoughts! 
+
 
